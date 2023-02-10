@@ -3,8 +3,8 @@ This project was created as a solution to a recruitment task. It contains a mode
 
 Task: https://drive.google.com/file/d/1WGQ8H6_l07yqe1JIQC1hQ6RWutZqqJbn/view
 
-##Input
+## Input
 The input is a file containing wavelengths and amplitudes, in this order. These should represent a sensors measured characteristics in air.
 
-##Usage 
+## Usage 
 Load the desired model in a ipynb and use it's .predict(X) on a compatible dataset. Save results as needed.
